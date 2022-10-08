@@ -35,6 +35,7 @@
   },
   "dependencies": {
     "@sveltejs/adapter-netlify": "^1.0.0-next.78",
-    "@sveltejs/adapter-node": "^1.0.0-next.96"
+    "@sveltejs/adapter-node": "^1.0.0-next.96",
+    "marmiton-api": "^2.3.0"
   }
 }
