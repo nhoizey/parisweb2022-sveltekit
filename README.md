@@ -2,6 +2,8 @@
 
 Template de base pour le codelab svelte et sveltekit.
 
+Voir le Codelab sur https://codelab-svelte.web.app/
+
 ## Démarrage
 
 Installer les dépendances
